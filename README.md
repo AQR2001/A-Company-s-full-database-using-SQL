@@ -1,4 +1,4 @@
-Certainly! The provided SQL script sets up a database for managing employee information within an organization. It creates tables for employees, branches, clients, suppliers, and their interactions. The script includes data insertion for employees in various branches, clients associated with those branches, and suppliers providing goods.
+ The provided SQL script sets up a database for managing employee information within an organization. It creates tables for employees, branches, clients, suppliers, and their interactions. The script includes data insertion for employees in various branches, clients associated with those branches, and suppliers providing goods.
 
 The SQL script also demonstrates how to query this database. For instance, it showcases ordering employees by salary, finding employees born in October, and identifying clients with specific keywords in their names. Joins are used to combine information from different tables, and nested queries help retrieve more detailed information.
 
